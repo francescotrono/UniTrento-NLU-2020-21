@@ -1,6 +1,10 @@
 # NLU_Assign1_2020-21_UniTrento
 *Repo for 1st assignment for NLU course 2020-21 at UniTrento.*
 
+**STUDENT:**
+Francesco Trono
+Student no.: 221723
+
 **Repo structure:**
 The submission is structured as follows:
 * **"Code" directory:** contains the 5 .py modules, 1 per question, each with the functions defined and a "Main" part ready to run.
