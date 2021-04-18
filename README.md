@@ -2,8 +2,7 @@
 *Repo for 1st assignment for NLU course 2020-21 at UniTrento.*
 
 **STUDENT:**
-Francesco Trono
-Student no.: 221723
+Francesco Trono - Student no.: 221723
 
 **Repo structure:**
 The submission is structured as follows:
