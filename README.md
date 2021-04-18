@@ -8,3 +8,9 @@ To install spacy:
 * run pip install spacy
 * run python -m spacy download en_core_web_sm to install English models
 
+**Repo structure:**
+Please find the submission as follows:
+* **"Code" directory:** contains the 5 .py modules, 1 per question, each with the functions defined and a Main part implemented.
+* **"Report" directory:** contains the project report.
+* **"Data directory:** for this assignment is empty, given that no downloaded or dataset has been used. The sentences used to test the code in the 5 .py modules are available in the same files.
+
