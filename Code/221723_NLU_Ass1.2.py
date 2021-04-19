@@ -29,7 +29,7 @@ def depsubtree(sentence, info=None):
 #MAIN:
 sentence = 'Pierre Vinken, 61 years old, will join the board as a nonexecutive director Nov. 29.'
 
-#calling depmap function:
+#calling function:
 depst = depsubtree(sentence)
 #depst = depsubtree(sentence, info=True)
 
