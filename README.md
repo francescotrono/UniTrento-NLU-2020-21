@@ -2,15 +2,12 @@
 *Repo for 1st assignment for NLU course 2020-21 at UniTrento.*
 
 
-**STUDENT:**
-
-
-Francesco Trono
-
-Student no.: 221723
+**STUDENT:** Francesco Trono - Student no.: 221723
 
 
 **Repo structure:**
+
+
 The submission is structured as follows:
 * **"Code" directory:** contains the 5 .py modules, 1 per question, each with the functions defined and a "Main" part ready to run.
 * **"Report" directory:** contains the project report.
@@ -18,6 +15,8 @@ The submission is structured as follows:
 
 
 **Software requirements:**
+
+
 The assignment is implemented in Python using the NLP tool spaCy. 
 
 All 5 .py modules include a MAIN section with one or more default sentences, the call to the implemented function and the printing of the function return items to the stand-ard output.
