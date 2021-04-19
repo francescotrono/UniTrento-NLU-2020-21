@@ -19,4 +19,4 @@ The submission is structured as follows:
 
 The assignment is implemented in Python using the NLP tool spaCy. 
 
-All 5 .py modules include a MAIN section with one or more default sentences, the call to the implemented function and the printing of the function return items to the stand-ard output.
+All 5 .py modules include a MAIN section with one or more default sentences, the call to the implemented function and the printing of the function return items to the standard output.
