@@ -1,6 +1,7 @@
 import spacy
 
-#FUNCTION: is subtree of dependents for each token:
+#FUNCTION: extract sentence subject, direct object and indirect object spans:
+#"out" arg can be either 'chunk' or 'subtree':
 def key_spans(sentence, out):
 
     if out not in ['chunk', 'subtree']:
